@@ -99,7 +99,6 @@ window.LANG_MS = {
   'Internet troubleshooting': 'Penyelesaian masalah internet',
 
   /* ---------- Hubungi ---------- */
-  'Next step': 'Langkah seterusnya',
   'Looking for someone to own the numbers?': 'Mencari seseorang yang boleh memikul angka?',
   "I'm open to performance marketing roles and consulting work in Malaysia and the wider region — particularly where paid media and internal tooling need to be handled by the same person.":
     'Saya terbuka kepada jawatan pemasaran prestasi dan kerja perundingan di Malaysia serta rantau sekitarnya — terutamanya apabila iklan berbayar dan perkakas dalaman perlu dikendalikan oleh orang yang sama.',
@@ -215,7 +214,6 @@ window.LANG_MS = {
   'Amazing Shock Group, Taipei': 'Amazing Shock Group, Taipei',
   'Open to': 'Terbuka kepada',
   'Agency media teams · Malaysia & region': 'Pasukan media agensi · Malaysia & rantau sekitar',
-  'Open to agency roles in Malaysia and the region.': 'Terbuka kepada jawatan agensi di Malaysia dan rantau sekitar',
   'If you\'re building a media team and this background looks useful — high-risk categories, multi-platform buying, and the reporting automation that comes with it — I\'d be glad to talk. Happy to walk through any of the numbers above in detail.':
     'Jika anda sedang membina pasukan media dan latar belakang ini berguna — kategori berisiko tinggi, pembelian merentas platform, dan automasi pelaporan yang datang bersamanya — saya berbesar hati untuk berbual. Saya juga boleh menerangkan mana-mana angka di atas dengan lebih terperinci.',
   'Technical Director & Systems Architect — Ecothon 2026': 'Pengarah Teknikal & Perancang Sistem — Ecothon 2026',
@@ -257,4 +255,6 @@ window.LANG_MS = {
   'Graduated March 2014': 'Tamat pengajian Mac 2014',
   'A hands-on programme, about 70% practical: network installation, email server and VPN setup, IP addressing and subnetting, and remote support for everyday IT problems. More than anything it taught me to work a problem through myself first, then with the people around me.':
     'Program praktikal, kira-kira 70% amali: pemasangan rangkaian, konfigurasi pelayan e-mel dan VPN, pengalamatan IP dan subnet, serta sokongan jarak jauh untuk masalah IT harian. Lebih daripada segalanya, ia mengajar saya menyelesaikan masalah sendiri dahulu, kemudian bersama orang di sekeliling saya.',
+  'The next chapter': 'Perjalanan seterusnya',
+  'Looking for agency roles in Malaysia and the region.': 'Mencari jawatan agensi di Malaysia dan rantau sekitar',
 };

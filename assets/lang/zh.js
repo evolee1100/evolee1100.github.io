@@ -99,7 +99,6 @@ window.LANG_ZH = {
   'Internet troubleshooting': '網路疑難排解',
 
   /* ---------- 聯絡 ---------- */
-  'Next step': '下一步',
   'Looking for someone to own the numbers?': '在找一個扛得起數字的人？',
   "I'm open to performance marketing roles and consulting work in Malaysia and the wider region — particularly where paid media and internal tooling need to be handled by the same person.":
     '我目前開放馬來西亞與鄰近區域的成效行銷職缺與顧問合作 —— 特別是廣告投放與內部工具需要同一個人扛起來的位置。',
@@ -214,7 +213,6 @@ window.LANG_ZH = {
   'Amazing Shock Group, Taipei': 'Amazing Shock Group，台北',
   'Open to': '尋找',
   'Agency media teams · Malaysia & region': '代理商媒體團隊 · 馬來西亞與周邊區域',
-  'Open to agency roles in Malaysia and the region.': '開放馬來西亞與周邊區域的代理商職缺',
   'If you\'re building a media team and this background looks useful — high-risk categories, multi-platform buying, and the reporting automation that comes with it — I\'d be glad to talk. Happy to walk through any of the numbers above in detail.':
     '如果您正在組建媒體團隊，而我的經歷用得上 —— 高風險類別、多平台投放，以及隨之而來的報表自動化 —— 很歡迎聊聊。上面任何一個數字，我都可以詳細說明。',
   'Technical Director & Systems Architect — Ecothon 2026': '技術總監 · 系統規劃 — Ecothon 2026',
@@ -257,4 +255,6 @@ window.LANG_ZH = {
   'Graduated March 2014': '2014 年 3 月畢業',
   'A hands-on programme, about 70% practical: network installation, email server and VPN setup, IP addressing and subnetting, and remote support for everyday IT problems. More than anything it taught me to work a problem through myself first, then with the people around me.':
     '以實作為主的課程，約七成是實作：網路安裝、郵件伺服器與 VPN 設定、IP 位址與子網路計算，以及日常 IT 問題的遠端支援。最大的收穫是養成先自己把問題查清楚、再和身邊的人一起解決的習慣。',
+  'The next chapter': '下一個旅程',
+  'Looking for agency roles in Malaysia and the region.': '找尋馬來西亞與周邊區域的代理商職缺',
 };
