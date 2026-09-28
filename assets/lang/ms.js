@@ -110,8 +110,6 @@ window.LANG_MS = {
   'Malaysia': 'Malaysia',
 
   /* ---------- Tambahan (daripada LinkedIn) ---------- */
-  'Chee Hou Lee': 'Chee Hou Lee',
-  'Also goes by Evo': 'Juga dikenali sebagai Evo',
   'Performance Marketing Specialist · Digital & Website Specialist': 'Pakar Pemasaran Prestasi · Pakar Digital & Laman Web',
   'Amazing Shock Group Co., Ltd — Meta agency partner, Taipei, Taiwan': 'Amazing Shock Group Co., Ltd — Rakan agensi Meta, Taipei, Taiwan',
   'Inventec — Taipei, Taiwan': 'Inventec — Taipei, Taiwan',
@@ -126,7 +124,6 @@ window.LANG_MS = {
   'Server-side traffic monitoring': 'Pemantauan trafik sisi pelayan',
   'Web & Support': 'Web & Sokongan',
   'Web design': 'Reka bentuk web',
-  'Chee Hou Lee · Performance Marketing Specialist': 'Chee Hou Lee · Pakar Pemasaran Prestasi',
   'Open menu': 'Buka menu',
   'Send me an email': 'Hantar e-mel kepada saya',
   'AI-assisted development': 'Pembangunan berbantukan AI',
@@ -258,4 +255,5 @@ window.LANG_MS = {
   'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying and reporting automation, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
     'Saya pulang ke Malaysia pada 2024 dan bercadang untuk kekal di sini. Saya mencari agensi yang boleh saya bina kerjaya bersama untuk jangka panjang — membawa pengalaman dalam kategori berisiko tinggi, pembelian merentas platform dan automasi pelaporan, sambil mempelajari pasaran Malaysia dengan sebaiknya. Jika itu sesuai dengan pasukan anda, saya berbesar hati untuk berbual, dan boleh menerangkan mana-mana angka di atas dengan terperinci.',
   'Long-term agency roles in Malaysia': 'Jawatan agensi jangka panjang di Malaysia',
+  'Chee Hou (Evo) Lee · Performance Marketing Specialist': 'Chee Hou (Evo) Lee · Pakar Pemasaran Prestasi',
 };

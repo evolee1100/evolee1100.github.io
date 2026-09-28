@@ -110,7 +110,6 @@ window.LANG_ZH = {
   'Malaysia': '馬來西亞',
 
   /* ---------- 新增（依 LinkedIn 補充） ---------- */
-  'Also goes by Evo': '也叫 Evo',
   'Performance Marketing Specialist · Digital & Website Specialist': '成效行銷專員 · 數位與網站專員',
   'Amazing Shock Group Co., Ltd — Meta agency partner, Taipei, Taiwan': 'Amazing Shock Group Co., Ltd — Meta 廣告代理商，台灣台北',
   'Inventec — Taipei, Taiwan': 'Inventec 英業達 — 台灣台北',
@@ -125,7 +124,6 @@ window.LANG_ZH = {
   'Server-side traffic monitoring': '伺服器端流量監控',
   'Web & Support': '網站與系統支援',
   'Web design': '網站設計',
-  'Chee Hou Lee · Performance Marketing Specialist': 'Chee Hou Lee · 成效行銷專員',
   'Open menu': '開啟選單',
   'Send me an email': '寄信給我',
   'AI-assisted development': 'AI 輔助開發',
@@ -258,4 +256,5 @@ window.LANG_ZH = {
   'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying and reporting automation, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
     '我在 2024 年回到馬來西亞，打算在這裡長期發展。希望找到一個能一起走得長遠的代理商團隊 —— 帶進我在高風險類別、多平台投放與報表自動化的經驗，也在過程中把馬來西亞市場真正學透。如果剛好符合您團隊的需要，很歡迎聊聊，上面任何一個數字我都可以詳細說明。',
   'Long-term agency roles in Malaysia': '馬來西亞的長期代理商職位',
+  'Chee Hou (Evo) Lee · Performance Marketing Specialist': 'Chee Hou (Evo) Lee · 成效行銷專員',
 };
