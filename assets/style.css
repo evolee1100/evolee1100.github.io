@@ -647,7 +647,7 @@ html.js .timeline li.reveal.in{transform:none}
 }
 .contact-inner{text-align:center;display:flex;flex-direction:column;align-items:center}
 /* 置中的 CTA 不需要靠左的金色底線 */
-.contact h2{padding-bottom:0}
+.contact h2{padding-bottom:0;text-wrap:balance;max-width:760px}
 .contact h2::after{display:none}
 .contact .section-lede{margin-bottom:32px}
 

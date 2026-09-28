@@ -213,9 +213,6 @@ window.LANG_MS = {
   'Currently': 'Kini di',
   'Amazing Shock Group, Taipei': 'Amazing Shock Group, Taipei',
   'Open to': 'Terbuka kepada',
-  'Agency media teams · Malaysia & region': 'Pasukan media agensi · Malaysia & rantau sekitar',
-  'If you\'re building a media team and this background looks useful — high-risk categories, multi-platform buying, and the reporting automation that comes with it — I\'d be glad to talk. Happy to walk through any of the numbers above in detail.':
-    'Jika anda sedang membina pasukan media dan latar belakang ini berguna — kategori berisiko tinggi, pembelian merentas platform, dan automasi pelaporan yang datang bersamanya — saya berbesar hati untuk berbual. Saya juga boleh menerangkan mana-mana angka di atas dengan lebih terperinci.',
   'Technical Director & Systems Architect — Ecothon 2026': 'Pengarah Teknikal & Perancang Sistem — Ecothon 2026',
   'TANJU · Rooted Futures — farmer-to-buyer platform for Sarawak':
     'TANJU · Rooted Futures — platform pemadanan petani dan pembeli di Sarawak',
@@ -256,5 +253,9 @@ window.LANG_MS = {
   'A hands-on programme, about 70% practical: network installation, email server and VPN setup, IP addressing and subnetting, and remote support for everyday IT problems. More than anything it taught me to work a problem through myself first, then with the people around me.':
     'Program praktikal, kira-kira 70% amali: pemasangan rangkaian, konfigurasi pelayan e-mel dan VPN, pengalamatan IP dan subnet, serta sokongan jarak jauh untuk masalah IT harian. Lebih daripada segalanya, ia mengajar saya menyelesaikan masalah sendiri dahulu, kemudian bersama orang di sekeliling saya.',
   'The next chapter': 'Perjalanan seterusnya',
-  'Looking for agency roles in Malaysia and the region.': 'Mencari jawatan agensi di Malaysia dan rantau sekitar',
+  'Settling in Malaysia, and looking for an agency team to grow with.':
+    'Menetap di Malaysia, dan mencari pasukan agensi untuk berkembang bersama',
+  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying and reporting automation, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
+    'Saya pulang ke Malaysia pada 2024 dan bercadang untuk kekal di sini. Saya mencari agensi yang boleh saya bina kerjaya bersama untuk jangka panjang — membawa pengalaman dalam kategori berisiko tinggi, pembelian merentas platform dan automasi pelaporan, sambil mempelajari pasaran Malaysia dengan sebaiknya. Jika itu sesuai dengan pasukan anda, saya berbesar hati untuk berbual, dan boleh menerangkan mana-mana angka di atas dengan terperinci.',
+  'Long-term agency roles in Malaysia': 'Jawatan agensi jangka panjang di Malaysia',
 };

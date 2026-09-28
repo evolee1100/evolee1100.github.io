@@ -212,9 +212,6 @@ window.LANG_ZH = {
   'Currently': '目前任職',
   'Amazing Shock Group, Taipei': 'Amazing Shock Group，台北',
   'Open to': '尋找',
-  'Agency media teams · Malaysia & region': '代理商媒體團隊 · 馬來西亞與周邊區域',
-  'If you\'re building a media team and this background looks useful — high-risk categories, multi-platform buying, and the reporting automation that comes with it — I\'d be glad to talk. Happy to walk through any of the numbers above in detail.':
-    '如果您正在組建媒體團隊，而我的經歷用得上 —— 高風險類別、多平台投放，以及隨之而來的報表自動化 —— 很歡迎聊聊。上面任何一個數字，我都可以詳細說明。',
   'Technical Director & Systems Architect — Ecothon 2026': '技術總監 · 系統規劃 — Ecothon 2026',
   'TANJU · Rooted Futures — farmer-to-buyer platform for Sarawak':
     'TANJU 根築新局 —— 砂拉越果農與買方的媒合平台',
@@ -256,5 +253,9 @@ window.LANG_ZH = {
   'A hands-on programme, about 70% practical: network installation, email server and VPN setup, IP addressing and subnetting, and remote support for everyday IT problems. More than anything it taught me to work a problem through myself first, then with the people around me.':
     '以實作為主的課程，約七成是實作：網路安裝、郵件伺服器與 VPN 設定、IP 位址與子網路計算，以及日常 IT 問題的遠端支援。最大的收穫是養成先自己把問題查清楚、再和身邊的人一起解決的習慣。',
   'The next chapter': '下一個旅程',
-  'Looking for agency roles in Malaysia and the region.': '找尋馬來西亞與周邊區域的代理商職缺',
+  'Settling in Malaysia, and looking for an agency team to grow with.':
+    '在馬來西亞紮根，尋找能一起長期發展的代理商團隊',
+  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying and reporting automation, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
+    '我在 2024 年回到馬來西亞，打算在這裡長期發展。希望找到一個能一起走得長遠的代理商團隊 —— 帶進我在高風險類別、多平台投放與報表自動化的經驗，也在過程中把馬來西亞市場真正學透。如果剛好符合您團隊的需要，很歡迎聊聊，上面任何一個數字我都可以詳細說明。',
+  'Long-term agency roles in Malaysia': '馬來西亞的長期代理商職位',
 };
