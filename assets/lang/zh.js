@@ -238,18 +238,19 @@ window.LANG_ZH = {
   'Aug 2024 — Present': '2024年8月 — 迄今',
   'Back in Malaysia': '回到馬來西亞',
   'Still with Amazing Shock, now working from Malaysia': '持續任職 Amazing Shock，改在馬來西亞工作',
-  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. Since then I\'ve also started running campaigns for the Malaysian market — including Meta lead generation for a local vocational college at around RM12 per lead — while learning how local audiences, budgets and platforms differ from Taiwan.':
-    '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。這段期間也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；同時也在摸索本地受眾、預算和平台生態跟台灣有哪些不同。',
   'Joined in April 2018, while finishing my degree, and have been here since — at an agency with Meta partner status, working across Google, Meta, TikTok and LINE.':
     '2018 年 4 月還在念大學時加入，一路做到現在。公司具 Meta 代理商資格，工作涵蓋 Google、Meta、TikTok 與 LINE。',
-  'Media spend reaching NT$100M (about US$3M / RM13M) in a single year, across Taiwanese health, wellness and beauty accounts.':
-    '單年媒體投放金額最高達新台幣 1 億（約 US$3M／RM 1,300 萬），客戶以台灣保健、健康生活與美妝品牌為主。',
   'Campaigns across 19 industries, many of them policy-restricted: supplements, skincare, real estate and investment education.':
     '操作過 19 個產業，其中不少是受政策限制的類別：保健食品、保養品、房地產與投顧教學。',
-  'Led a team of up to five media buyers and creative staff at peak.':
-    '高峰期帶領最多 5 人的投手與素材團隊。',
-  'Built AI-assisted reporting tools that cut manual reporting time by 45%.':
-    '用 AI 輔助開發報表工具，人工報表時間減少 45%。',
   'Account structures split by product line, so a policy strike on one account didn\'t stop the others.':
     '依產品線拆分廣告帳戶，一個帳戶被政策限制時，其他帳戶照常運作。',
+  'Started automating cross-platform reporting — the tooling behind the 45% cut in manual reporting time.':
+    '開始把跨平台報表自動化 —— 後來讓人工報表時間減少 45% 的，就是這套工具。',
+  'Media spend reached NT$100M (about US$3M / RM13M) for the year, across Taiwanese health, wellness and beauty accounts.':
+    '全年媒體投放金額達新台幣 1 億（約 US$3M／RM 1,300 萬），客戶以台灣保健、健康生活與美妝品牌為主。',
+  'Started leading a team — up to five media buyers and creative staff at peak.':
+    '開始帶團隊，高峰期最多 5 人，包含投手與素材端。',
+  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan.':
+    '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。同年也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；本地受眾、預算和平台生態跟台灣有哪些不同，我還在持續摸索。',
+  'Since 2021': '2021 年起',
 };

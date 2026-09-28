@@ -238,18 +238,19 @@ window.LANG_MS = {
   'Aug 2024 — Present': 'Ogos 2024 — Kini',
   'Back in Malaysia': 'Kembali ke Malaysia',
   'Still with Amazing Shock, now working from Malaysia': 'Masih bersama Amazing Shock, kini bekerja dari Malaysia',
-  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. Since then I\'ve also started running campaigns for the Malaysian market — including Meta lead generation for a local vocational college at around RM12 per lead — while learning how local audiences, budgets and platforms differ from Taiwan.':
-    'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Sejak itu saya juga mula mengendalikan kempen untuk pasaran Malaysia — termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — sambil mempelajari bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan.',
   'Joined in April 2018, while finishing my degree, and have been here since — at an agency with Meta partner status, working across Google, Meta, TikTok and LINE.':
     'Menyertai pada April 2018 ketika masih menamatkan ijazah, dan kekal sejak itu — di agensi berstatus rakan Meta, bekerja merentas Google, Meta, TikTok dan LINE.',
-  'Media spend reaching NT$100M (about US$3M / RM13M) in a single year, across Taiwanese health, wellness and beauty accounts.':
-    'Perbelanjaan media mencecah NT$100 juta (kira-kira US$3 juta / RM13 juta) dalam setahun, merentas akaun kesihatan, kesejahteraan dan kecantikan Taiwan.',
   'Campaigns across 19 industries, many of them policy-restricted: supplements, skincare, real estate and investment education.':
     'Kempen dalam 19 industri, kebanyakannya dikawal dasar: suplemen, penjagaan kulit, hartanah dan pendidikan pelaburan.',
-  'Led a team of up to five media buyers and creative staff at peak.':
-    'Mengetuai pasukan sehingga lima orang pembeli media dan kakitangan kreatif pada kemuncaknya.',
-  'Built AI-assisted reporting tools that cut manual reporting time by 45%.':
-    'Membina alat pelaporan berbantukan AI yang mengurangkan masa pelaporan manual sebanyak 45%.',
   'Account structures split by product line, so a policy strike on one account didn\'t stop the others.':
     'Struktur akaun dipecahkan mengikut barisan produk, supaya sekatan dasar pada satu akaun tidak menghentikan yang lain.',
+  'Started automating cross-platform reporting — the tooling behind the 45% cut in manual reporting time.':
+    'Mula mengautomasikan pelaporan merentas platform — alat inilah di sebalik pengurangan 45% masa pelaporan manual.',
+  'Media spend reached NT$100M (about US$3M / RM13M) for the year, across Taiwanese health, wellness and beauty accounts.':
+    'Perbelanjaan media mencecah NT$100 juta (kira-kira US$3 juta / RM13 juta) untuk tahun itu, merentas akaun kesihatan, kesejahteraan dan kecantikan Taiwan.',
+  'Started leading a team — up to five media buyers and creative staff at peak.':
+    'Mula mengetuai pasukan — sehingga lima orang pembeli media dan kakitangan kreatif pada kemuncaknya.',
+  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan.':
+    'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Pada tahun yang sama saya juga mula mengendalikan kempen untuk pasaran Malaysia, termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — dan saya masih belajar bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan.',
+  'Since 2021': 'Sejak 2021',
 };
