@@ -10,8 +10,8 @@ window.LANG_MS = {
 
   /* ---------- Hero ---------- */
   'Performance Marketing · Based in Malaysia': 'Pemasaran Prestasi · Berpangkalan di Malaysia',
-  'Paid media that scales,': 'Iklan berbayar yang berskala,',
-  'backed by code that keeps up.': 'disokong kod yang mampu mengejarnya.',
+  'Multi-platform paid media,': 'Iklan berbayar pelbagai platform,',
+  'and the reporting behind it.': 'dan pelaporan di sebaliknya.',
   "I run multi-channel ad campaigns across Google, Meta, TikTok and LINE — and when the reporting can't keep pace with the spend, I build the automation myself. Eight years in Taiwan's performance marketing scene, now applying that playbook back home in Malaysia.":
     'Saya mengendalikan kempen iklan pelbagai saluran di Google, Meta, TikTok dan LINE — dan apabila pelaporan tidak mampu mengejar perbelanjaan iklan, saya membina automasinya sendiri. Lapan tahun dalam industri pemasaran prestasi di Taiwan, kini membawa pendekatan itu pulang ke Malaysia.',
   'Work with me': 'Mari bekerjasama',
@@ -84,11 +84,6 @@ window.LANG_MS = {
   'Hardware and software QA in a manufacturing environment — where the habit of reproducing a problem before explaining it, and documenting it so someone else can act on it, started.':
     'Jaminan kualiti perkakasan dan perisian dalam persekitaran pembuatan — di situlah bermulanya tabiat menghasilkan semula sesuatu masalah sebelum menerangkannya, dan mendokumentasikannya supaya orang lain boleh bertindak.',
 
-  'Aug 2024': 'Ogos 2024',
-  'Relocated to Malaysia': 'Berpindah pulang ke Malaysia',
-  'After building a career in Taiwan': 'Selepas membina kerjaya di Taiwan',
-  'Returned to my roots and started applying a Taiwan-trained performance playbook to the Malaysian market — the same rigour, recalibrated to local platforms, budgets and rhythms.':
-    'Kembali ke tanah air dan mula menerapkan pendekatan pemasaran prestasi yang diasah di Taiwan kepada pasaran Malaysia — ketelitian yang sama, ditala semula mengikut platform, bajet dan rentak tempatan.',
 
   /* ---------- Kemahiran ---------- */
   'Toolkit': 'Peralatan',
@@ -142,8 +137,8 @@ window.LANG_MS = {
   'I build the tooling I need — cross-platform scraping, API integration, automated reporting — working with AI to write the Python and JavaScript, then testing, debugging and maintaining it myself until the numbers can be trusted. That is what cut manual operational time by 45% and turned end-of-month spreadsheets into same-day decisions.':
     'Saya membina perkakas yang saya perlukan — pengumpulan data merentas platform, integrasi API, pelaporan automatik. Kod Python dan JavaScript itu saya tulis bersama AI, kemudian saya sendiri yang menguji, menyahpepijat dan menyelenggaranya sehingga angkanya boleh dipercayai. Itulah yang mengurangkan masa operasi manual sebanyak 45% dan menukar hamparan hujung bulan kepada keputusan pada hari yang sama.',
   'Ad spend managed in a single year': 'Perbelanjaan iklan dikendalikan dalam satu tahun',
-  'I run multi-channel ad campaigns across Google, Meta, TikTok and LINE — up to NT$100M of media in a single year — and when the reporting can\'t keep pace with that spend, I build the automation myself. Eight years in Taiwan\'s performance marketing scene, now applying that playbook back home in Malaysia.':
-    'Saya mengendalikan kempen iklan pelbagai saluran di Google, Meta, TikTok dan LINE — sehingga NT$100 juta media dalam satu tahun — dan apabila pelaporan tidak mampu mengejar perbelanjaan sebesar itu, saya membina automasinya sendiri. Lapan tahun dalam industri pemasaran prestasi di Taiwan, kini membawa pendekatan itu pulang ke Malaysia.',
+  'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I started automating the reporting, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
+    'Selama lapan tahun saya berkecimpung dalam pemasaran prestasi di Taiwan, mengendalikan iklan berbayar di Google, Meta, TikTok dan LINE dengan bajet yang mencecah NT$100 juta dalam setahun. Sepanjang itu saya mula mengautomasikan pelaporan kerana cara manual tidak dapat mengejarnya. Kini saya kembali ke Malaysia dan berharap dapat membawa pengalaman ini kepada pasukan di sini.',
   'My three largest accounts': 'Tiga akaun terbesar saya',
   'All three are Taiwanese health and wellness brands, in one of the most tightly policed ad categories there is — a single policy strike can take the account down mid-campaign.':
     'Ketiga-tiganya jenama kesihatan dan kesejahteraan dari Taiwan, dalam salah satu kategori iklan yang paling ketat dikawal — satu pelanggaran dasar boleh mematikan akaun di tengah-tengah kempen.',
@@ -238,8 +233,23 @@ window.LANG_MS = {
   'Anti-ageing skincare brand': 'Jenama penjagaan kulit anti-penuaan',
   'Active-ingredient skincare — efficacy claims that sit close to medical territory and have to be written line by line to stay inside policy.':
     'Penjagaan kulit berbahan aktif — dakwaan keberkesanan yang hampir kepada wilayah perubatan, perlu ditulis baris demi baris supaya kekal dalam dasar.',
-  'Own multi-channel campaign strategy and execution across Google, Meta, TikTok and LINE, reaching NT$100M (about US$3M / RM13M) of media spend in a single year across Taiwanese health, wellness and beauty accounts. Led a team of up to five at peak. Work spans account structure, full-funnel optimisation and compliance in high-risk categories — alongside the internal tooling that keeps cross-platform reporting automated and current.':
-    'Menerajui strategi dan pelaksanaan kempen pelbagai saluran di Google, Meta, TikTok dan LINE, mencecah NT$100 juta (kira-kira US$3 juta / RM13 juta) perbelanjaan media dalam satu tahun merentas akaun kesihatan, kesejahteraan dan kecantikan Taiwan. Mengetuai pasukan sehingga lima orang pada kemuncaknya. Skop kerja merangkumi struktur akaun, pengoptimuman corong penuh dan pematuhan dalam kategori berisiko tinggi — di samping perkakas dalaman yang memastikan pelaporan merentas platform kekal automatik dan terkini.',
   'In a team of three, I planned the system and ran the technical side of the build: every fruit tree carries its own code, so a buyer can adopt one before the season starts and the money reaches the farmer before harvest. Scope covered the public site, the adoption checkout, a role-based back office and a four-language interface. The entry came through from 130 teams to the last 13.':
     'Dalam pasukan tiga orang, saya merancang sistem dan mengetuai bahagian teknikal pembinaannya: setiap pokok buah membawa kodnya sendiri, jadi pembeli boleh mengangkatnya sebelum musim bermula dan wang sampai kepada petani sebelum musim menuai. Skopnya merangkumi laman awam, proses pengangkatan pokok, pejabat belakang berasaskan peranan dan antara muka empat bahasa. Penyertaan ini menembusi daripada 130 pasukan ke 13 terakhir.',
+  'Aug 2024 — Present': 'Ogos 2024 — Kini',
+  'Back in Malaysia': 'Kembali ke Malaysia',
+  'Still with Amazing Shock, now working from Malaysia': 'Masih bersama Amazing Shock, kini bekerja dari Malaysia',
+  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. Since then I\'ve also started running campaigns for the Malaysian market — including Meta lead generation for a local vocational college at around RM12 per lead — while learning how local audiences, budgets and platforms differ from Taiwan.':
+    'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Sejak itu saya juga mula mengendalikan kempen untuk pasaran Malaysia — termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — sambil mempelajari bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan.',
+  'Joined in April 2018, while finishing my degree, and have been here since — at an agency with Meta partner status, working across Google, Meta, TikTok and LINE.':
+    'Menyertai pada April 2018 ketika masih menamatkan ijazah, dan kekal sejak itu — di agensi berstatus rakan Meta, bekerja merentas Google, Meta, TikTok dan LINE.',
+  'Media spend reaching NT$100M (about US$3M / RM13M) in a single year, across Taiwanese health, wellness and beauty accounts.':
+    'Perbelanjaan media mencecah NT$100 juta (kira-kira US$3 juta / RM13 juta) dalam setahun, merentas akaun kesihatan, kesejahteraan dan kecantikan Taiwan.',
+  'Campaigns across 19 industries, many of them policy-restricted: supplements, skincare, real estate and investment education.':
+    'Kempen dalam 19 industri, kebanyakannya dikawal dasar: suplemen, penjagaan kulit, hartanah dan pendidikan pelaburan.',
+  'Led a team of up to five media buyers and creative staff at peak.':
+    'Mengetuai pasukan sehingga lima orang pembeli media dan kakitangan kreatif pada kemuncaknya.',
+  'Built AI-assisted reporting tools that cut manual reporting time by 45%.':
+    'Membina alat pelaporan berbantukan AI yang mengurangkan masa pelaporan manual sebanyak 45%.',
+  'Account structures split by product line, so a policy strike on one account didn\'t stop the others.':
+    'Struktur akaun dipecahkan mengikut barisan produk, supaya sekatan dasar pada satu akaun tidak menghentikan yang lain.',
 };

@@ -576,6 +576,19 @@ html.js .timeline li.reveal.in{transform:none}
 .t-what h3{font-size:1.12rem;font-weight:700}
 .t-org{font-size:.92rem;color:var(--accent);margin-bottom:8px}
 .t-what p{color:var(--ink-soft);font-size:.96rem}
+.t-points{list-style:none;display:grid;gap:8px;margin-top:12px}
+.t-points li{
+  position:relative;padding-left:18px;
+  font-size:.94rem;color:var(--ink-soft);
+}
+.t-points li::before{
+  content:"";position:absolute;left:0;top:.62em;
+  width:6px;height:6px;border-radius:50%;background:var(--accent);opacity:.8;
+}
+/* 時間軸項目本身已有 ::before 節點，巢狀清單的 li 不能吃到那組樣式 */
+.timeline .t-points li{display:block;padding:0 0 0 18px;grid-template-columns:none}
+.timeline .t-points li::before{box-shadow:none;left:0;top:.62em;width:6px;height:6px}
+
 .t-link{
   display:inline-flex;align-items:center;gap:6px;margin-top:10px;
   font-size:.88rem;font-weight:650;color:var(--ink-dim);transition:.2s;

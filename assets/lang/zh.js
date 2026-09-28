@@ -10,8 +10,8 @@ window.LANG_ZH = {
 
   /* ---------- Hero ---------- */
   'Performance Marketing · Based in Malaysia': '成效行銷 · 現居馬來西亞',
-  'Paid media that scales,': '把預算放大的廣告投放，',
-  'backed by code that keeps up.': '還有跟得上的技術底。',
+  'Multi-platform paid media,': '多平台廣告投放，',
+  'and the reporting behind it.': '以及背後的報表與工具。',
   "I run multi-channel ad campaigns across Google, Meta, TikTok and LINE — and when the reporting can't keep pace with the spend, I build the automation myself. Eight years in Taiwan's performance marketing scene, now applying that playbook back home in Malaysia.":
     '我在 Google、Meta、TikTok 與 LINE 上操作多平台廣告投放；當報表的速度跟不上投放的規模，我就自己寫工具把它自動化。八年台灣成效行銷實戰，現在把這套打法帶回馬來西亞。',
   'Work with me': '談談合作',
@@ -84,11 +84,6 @@ window.LANG_ZH = {
   'Hardware and software QA in a manufacturing environment — where the habit of reproducing a problem before explaining it, and documenting it so someone else can act on it, started.':
     '在製造業環境做軟硬體品質驗證 ——「先重現問題再解釋問題，並寫成別人能接手處理的文件」這個習慣就是從這裡養成的。',
 
-  'Aug 2024': '2024年8月',
-  'Relocated to Malaysia': '返回馬來西亞',
-  'After building a career in Taiwan': '在台灣累積職涯之後',
-  'Returned to my roots and started applying a Taiwan-trained performance playbook to the Malaysian market — the same rigour, recalibrated to local platforms, budgets and rhythms.':
-    '回到自己的家鄉，把在台灣練出來的成效打法用在馬來西亞市場 —— 一樣的嚴謹，重新校準到在地的平台、預算與節奏。',
 
   /* ---------- 技能 ---------- */
   'Toolkit': '工具箱',
@@ -141,8 +136,8 @@ window.LANG_ZH = {
   'I build the tooling I need — cross-platform scraping, API integration, automated reporting — working with AI to write the Python and JavaScript, then testing, debugging and maintaining it myself until the numbers can be trusted. That is what cut manual operational time by 45% and turned end-of-month spreadsheets into same-day decisions.':
     '需要什麼工具我就自己做 —— 跨平台資料抓取、API 串接、自動化報表。程式碼我用 AI 一起寫 Python 與 JavaScript，然後自己測試、除錯、維護，直到那些數字可以放心拿來做決策。人工工時因此少了 45%，月底才看得到的試算表變成當天就能下判斷的數據。',
   'Ad spend managed in a single year': '一年操作的廣告投放金額（約新台幣 1 億）',
-  'I run multi-channel ad campaigns across Google, Meta, TikTok and LINE — up to NT$100M of media in a single year — and when the reporting can\'t keep pace with that spend, I build the automation myself. Eight years in Taiwan\'s performance marketing scene, now applying that playbook back home in Malaysia.':
-    '我在 Google、Meta、TikTok 與 LINE 上操作多平台廣告投放，一年最高操盤新台幣 1 億的媒體預算；當報表的速度跟不上這個量級，我就自己把它自動化。八年台灣成效行銷實戰，現在把這套打法帶回馬來西亞。',
+  'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I started automating the reporting, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
+    '過去八年我在台灣做成效行銷，操作 Google、Meta、TikTok 與 LINE 的廣告投放，單年預算最高到新台幣 1 億。過程中因為人工報表跟不上，開始自己把報表自動化。現在回到馬來西亞，希望把這些經驗帶進這裡的團隊。',
   'My three largest accounts': '手頭上最大的三個品牌',
   'All three are Taiwanese health and wellness brands, in one of the most tightly policed ad categories there is — a single policy strike can take the account down mid-campaign.':
     '三個都是台灣的保健與健康生活品牌，屬於廣告政策最嚴格的類別之一 —— 一次違規，整個帳戶就可能在檔期中途被停掉。',
@@ -238,8 +233,23 @@ window.LANG_ZH = {
   'Anti-ageing skincare brand': '抗老保養品牌',
   'Active-ingredient skincare — efficacy claims that sit close to medical territory and have to be written line by line to stay inside policy.':
     '高功效成分保養品 —— 功效訴求貼近醫療邊界，得逐字寫、逐字檢查才能留在政策之內。',
-  'Own multi-channel campaign strategy and execution across Google, Meta, TikTok and LINE, reaching NT$100M (about US$3M / RM13M) of media spend in a single year across Taiwanese health, wellness and beauty accounts. Led a team of up to five at peak. Work spans account structure, full-funnel optimisation and compliance in high-risk categories — alongside the internal tooling that keeps cross-platform reporting automated and current.':
-    '負責 Google、Meta、TikTok 與 LINE 的多平台廣告策略與執行，單年媒體投放金額達新台幣 1 億（約 US$3M／RM 1,300 萬），客戶以台灣保健、健康生活與美妝品牌為主，最高同時帶領 5 人團隊。工作範圍涵蓋帳戶結構、全漏斗優化，以及高風險類別的合規操作；同時建置內部工具，讓跨平台報表自動化並保持即時。',
   'In a team of three, I planned the system and ran the technical side of the build: every fruit tree carries its own code, so a buyer can adopt one before the season starts and the money reaches the farmer before harvest. Scope covered the public site, the adoption checkout, a role-based back office and a four-language interface. The entry came through from 130 teams to the last 13.':
     '在三人團隊中，我負責系統規劃與技術統籌：一樹一碼，買方能在產季開始前認養果樹，認養金在收成前就送到果農手上。範圍涵蓋官網、認養結帳流程、角色權限後台與四語系介面。這件作品從 130 組隊伍進到最後 13 強。',
+  'Aug 2024 — Present': '2024年8月 — 迄今',
+  'Back in Malaysia': '回到馬來西亞',
+  'Still with Amazing Shock, now working from Malaysia': '持續任職 Amazing Shock，改在馬來西亞工作',
+  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. Since then I\'ve also started running campaigns for the Malaysian market — including Meta lead generation for a local vocational college at around RM12 per lead — while learning how local audiences, budgets and platforms differ from Taiwan.':
+    '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。這段期間也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；同時也在摸索本地受眾、預算和平台生態跟台灣有哪些不同。',
+  'Joined in April 2018, while finishing my degree, and have been here since — at an agency with Meta partner status, working across Google, Meta, TikTok and LINE.':
+    '2018 年 4 月還在念大學時加入，一路做到現在。公司具 Meta 代理商資格，工作涵蓋 Google、Meta、TikTok 與 LINE。',
+  'Media spend reaching NT$100M (about US$3M / RM13M) in a single year, across Taiwanese health, wellness and beauty accounts.':
+    '單年媒體投放金額最高達新台幣 1 億（約 US$3M／RM 1,300 萬），客戶以台灣保健、健康生活與美妝品牌為主。',
+  'Campaigns across 19 industries, many of them policy-restricted: supplements, skincare, real estate and investment education.':
+    '操作過 19 個產業，其中不少是受政策限制的類別：保健食品、保養品、房地產與投顧教學。',
+  'Led a team of up to five media buyers and creative staff at peak.':
+    '高峰期帶領最多 5 人的投手與素材團隊。',
+  'Built AI-assisted reporting tools that cut manual reporting time by 45%.':
+    '用 AI 輔助開發報表工具，人工報表時間減少 45%。',
+  'Account structures split by product line, so a policy strike on one account didn\'t stop the others.':
+    '依產品線拆分廣告帳戶，一個帳戶被政策限制時，其他帳戶照常運作。',
 };
