@@ -253,4 +253,8 @@ window.LANG_MS = {
   'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan.':
     'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Pada tahun yang sama saya juga mula mengendalikan kempen untuk pasaran Malaysia, termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — dan saya masih belajar bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan.',
   'Since 2021': 'Sejak 2021',
+  'Diploma, IT System Support': 'Diploma, Sokongan Sistem IT',
+  'Graduated March 2014': 'Tamat pengajian Mac 2014',
+  'A hands-on programme, about 70% practical: network installation, email server and VPN setup, IP addressing and subnetting, and remote support for everyday IT problems. More than anything it taught me to work a problem through myself first, then with the people around me.':
+    'Program praktikal, kira-kira 70% amali: pemasangan rangkaian, konfigurasi pelayan e-mel dan VPN, pengalamatan IP dan subnet, serta sokongan jarak jauh untuk masalah IT harian. Lebih daripada segalanya, ia mengajar saya menyelesaikan masalah sendiri dahulu, kemudian bersama orang di sekeliling saya.',
 };

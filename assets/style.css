@@ -620,6 +620,7 @@ html.js .timeline li.reveal.in{transform:none}
 .edu-line{font-size:1.02rem}
 .edu-line b{font-weight:700}
 .edu-when{font-size:.88rem;color:var(--ink-dim);margin-top:2px}
+.edu-item{margin-top:22px;padding-top:20px;border-top:1px solid var(--line)}
 .edu-note{font-size:.94rem;color:var(--ink-soft);margin-top:12px;max-width:640px}
 
 /* ---------- Skills ---------- */

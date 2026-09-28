@@ -253,4 +253,8 @@ window.LANG_ZH = {
   'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan.':
     '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。同年也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；本地受眾、預算和平台生態跟台灣有哪些不同，我還在持續摸索。',
   'Since 2021': '2021 年起',
+  'Diploma, IT System Support': '資訊系統支援 專業文憑',
+  'Graduated March 2014': '2014 年 3 月畢業',
+  'A hands-on programme, about 70% practical: network installation, email server and VPN setup, IP addressing and subnetting, and remote support for everyday IT problems. More than anything it taught me to work a problem through myself first, then with the people around me.':
+    '以實作為主的課程，約七成是實作：網路安裝、郵件伺服器與 VPN 設定、IP 位址與子網路計算，以及日常 IT 問題的遠端支援。最大的收穫是養成先自己把問題查清楚、再和身邊的人一起解決的習慣。',
 };
