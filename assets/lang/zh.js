@@ -130,8 +130,8 @@ window.LANG_ZH = {
   'AI-assisted development (Python / JavaScript)': 'AI 輔助開發（Python / JavaScript）',
   'Cross-platform data scraping': '跨平台資料抓取',
   'Debugging & iteration': '除錯與迭代',
-  'I build the tooling I need — cross-platform scraping, API integration, automated reporting — working with AI to write the Python and JavaScript, then testing, debugging and maintaining it myself until the numbers can be trusted. That is what cut manual operational time by 45% and turned end-of-month spreadsheets into same-day decisions.':
-    '需要什麼工具我就自己做 —— 跨平台資料抓取、API 串接、自動化報表。程式碼我用 AI 一起寫 Python 與 JavaScript，然後自己測試、除錯、維護，直到那些數字可以放心拿來做決策。人工工時因此少了 45%，月底才看得到的試算表變成當天就能下判斷的數據。',
+  'I build my own reporting tools — cross-platform scraping, API integration and automated reports — using AI to write the Python and JavaScript, then testing and maintaining them myself. That cut manual reporting time by 45%.':
+    '我自己做報表工具 —— 跨平台資料抓取、API 串接與自動化報表。Python 與 JavaScript 程式碼用 AI 協助撰寫，之後的測試與維護由我自己負責。人工報表時間因此減少 45%。',
   'Ad spend managed in a single year': '一年操作的廣告投放金額（約新台幣 1 億）',
   'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I started automating the reporting, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
     '過去八年我在台灣做成效行銷，操作 Google、Meta、TikTok 與 LINE 的廣告投放，單年預算最高到新台幣 1 億。過程中因為人工報表跟不上，開始自己把報表自動化。現在回到馬來西亞，希望把這些經驗帶進這裡的團隊。',
@@ -202,7 +202,7 @@ window.LANG_ZH = {
   'Largest team led': '最高帶領團隊人數',
   'people': '人',
   'Five people across media buying and creative. My job was keeping everyone pointed at the same target: clear briefs, one account structure the whole team could read, and enough context on platform policy that they could make the call without waiting for me.':
-    '投手與素材端共 5 人。我的工作是讓所有人朝同一個方向使力：清楚的派工、一套全隊都看得懂的帳戶結構，以及把平台政策的來龍去脈講透，讓他們不用等我就能自己判斷。',
+    '投手與素材端共 5 人。當時我的工作是讓所有人朝同一個方向使力：清楚的派工、一套全隊都看得懂的帳戶結構，以及把平台政策的來龍去脈講透，讓他們不用等我就能自己判斷。',
   'Give me the accounts nobody wants.': '把沒人想接的帳戶交給我。',
   'Health, finance, anything where a policy review decides whether the campaign runs at all — that is where eight years and NT$100M of my media budget went. If your floor has accounts like that, or reporting that quietly eats a day every week, I can take them off your hands.':
     '保健、金融，任何要靠政策審查決定能不能上線的類別 —— 我八年、一億台幣的媒體預算都花在這種地方。如果你們手上有這種帳戶，或有每週悄悄吃掉一天的人工報表，我可以接過來。',
@@ -241,11 +241,11 @@ window.LANG_ZH = {
     '開始把跨平台報表自動化 —— 後來讓人工報表時間減少 45% 的，就是這套工具。',
   'Media spend reached NT$100M (about US$3M / RM13M) for the year, across Taiwanese health, wellness and beauty accounts.':
     '全年媒體投放金額達新台幣 1 億（約 US$3M／RM 1,300 萬），客戶以台灣保健、健康生活與美妝品牌為主。',
-  'Started leading a team — up to five media buyers and creative staff at peak.':
-    '開始帶團隊，高峰期最多 5 人，包含投手與素材端。',
+  'Led a team of up to five media buyers and creative staff, until I moved back to Malaysia in 2024.':
+    '帶領最多 5 人的團隊，包含投手與素材端，直到 2024 年搬回馬來西亞為止。',
   'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan.':
     '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。同年也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；本地受眾、預算和平台生態跟台灣有哪些不同，我還在持續摸索。',
-  'Since 2021': '2021 年起',
+  '2021 — 2024': '2021 年 — 2024 年',
   'Diploma, IT System Support': '資訊系統支援 專業文憑',
   'Graduated March 2014': '2014 年 3 月畢業',
   'A hands-on programme, about 70% practical: network installation, email server and VPN setup, IP addressing and subnetting, and remote support for everyday IT problems. More than anything it taught me to work a problem through myself first, then with the people around me.':
@@ -261,4 +261,8 @@ window.LANG_ZH = {
   'On-page optimisation': '頁面優化（On-page）',
   'Technical SEO': '技術 SEO',
   'SEO site builds & monitoring': 'SEO 站架設與監控',
+  'SEO alongside paid media: keyword research and mapping, on-page and technical optimisation, and building and monitoring SEO sites.':
+    '廣告投放之外也做 SEO：關鍵字研究與佈局、頁面（On-page）與技術優化，以及 SEO 站的架設與監控。',
+  'Google Ads · 2022 · personal best': 'Google Ads · 2022 · 個人最佳紀錄',
+  'Meta Ads · 2022 · personal best': 'Meta Ads · 2022 · 個人最佳紀錄',
 };

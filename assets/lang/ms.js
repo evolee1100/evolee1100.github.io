@@ -130,8 +130,8 @@ window.LANG_MS = {
   'AI-assisted development (Python / JavaScript)': 'Pembangunan berbantukan AI (Python / JavaScript)',
   'Cross-platform data scraping': 'Pengumpulan data merentas platform',
   'Debugging & iteration': 'Penyahpepijatan & lelaran',
-  'I build the tooling I need — cross-platform scraping, API integration, automated reporting — working with AI to write the Python and JavaScript, then testing, debugging and maintaining it myself until the numbers can be trusted. That is what cut manual operational time by 45% and turned end-of-month spreadsheets into same-day decisions.':
-    'Saya membina perkakas yang saya perlukan — pengumpulan data merentas platform, integrasi API, pelaporan automatik. Kod Python dan JavaScript itu saya tulis bersama AI, kemudian saya sendiri yang menguji, menyahpepijat dan menyelenggaranya sehingga angkanya boleh dipercayai. Itulah yang mengurangkan masa operasi manual sebanyak 45% dan menukar hamparan hujung bulan kepada keputusan pada hari yang sama.',
+  'I build my own reporting tools — cross-platform scraping, API integration and automated reports — using AI to write the Python and JavaScript, then testing and maintaining them myself. That cut manual reporting time by 45%.':
+    'Saya membina alat pelaporan saya sendiri — pengumpulan data merentas platform, integrasi API dan laporan automatik — menggunakan AI untuk menulis kod Python dan JavaScript, kemudian saya sendiri yang menguji dan menyelenggaranya. Ini mengurangkan masa pelaporan manual sebanyak 45%.',
   'Ad spend managed in a single year': 'Perbelanjaan iklan dikendalikan dalam satu tahun',
   'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I started automating the reporting, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
     'Selama lapan tahun saya berkecimpung dalam pemasaran prestasi di Taiwan, mengendalikan iklan berbayar di Google, Meta, TikTok dan LINE dengan bajet yang mencecah NT$100 juta dalam setahun. Sepanjang itu saya mula mengautomasikan pelaporan kerana cara manual tidak dapat mengejarnya. Kini saya kembali ke Malaysia dan berharap dapat membawa pengalaman ini kepada pasukan di sini.',
@@ -202,7 +202,7 @@ window.LANG_MS = {
   'Largest team led': 'Pasukan terbesar yang diketuai',
   'people': 'orang',
   'Five people across media buying and creative. My job was keeping everyone pointed at the same target: clear briefs, one account structure the whole team could read, and enough context on platform policy that they could make the call without waiting for me.':
-    'Lima orang merangkumi pembelian media dan kreatif. Tugas saya ialah memastikan semua orang menuju sasaran yang sama: taklimat yang jelas, satu struktur akaun yang seluruh pasukan boleh baca, dan konteks dasar platform yang cukup supaya mereka boleh membuat keputusan tanpa menunggu saya.',
+    'Lima orang merangkumi pembelian media dan kreatif. Tugas saya ketika itu ialah memastikan semua orang menuju sasaran yang sama: taklimat yang jelas, satu struktur akaun yang seluruh pasukan boleh baca, dan konteks dasar platform yang cukup supaya mereka boleh membuat keputusan tanpa menunggu saya.',
   'Give me the accounts nobody wants.': 'Berikan saya akaun yang tiada siapa mahu.',
   'Health, finance, anything where a policy review decides whether the campaign runs at all — that is where eight years and NT$100M of my media budget went. If your floor has accounts like that, or reporting that quietly eats a day every week, I can take them off your hands.':
     'Kesihatan, kewangan, apa sahaja yang bergantung pada semakan dasar untuk ditayangkan — di situlah lapan tahun dan NT$100 juta bajet media saya dibelanjakan. Jika ada akaun seperti itu di pejabat anda, atau pelaporan yang diam-diam menelan sehari setiap minggu, saya boleh ambil alih.',
@@ -240,11 +240,11 @@ window.LANG_MS = {
     'Mula mengautomasikan pelaporan merentas platform — alat inilah di sebalik pengurangan 45% masa pelaporan manual.',
   'Media spend reached NT$100M (about US$3M / RM13M) for the year, across Taiwanese health, wellness and beauty accounts.':
     'Perbelanjaan media mencecah NT$100 juta (kira-kira US$3 juta / RM13 juta) untuk tahun itu, merentas akaun kesihatan, kesejahteraan dan kecantikan Taiwan.',
-  'Started leading a team — up to five media buyers and creative staff at peak.':
-    'Mula mengetuai pasukan — sehingga lima orang pembeli media dan kakitangan kreatif pada kemuncaknya.',
+  'Led a team of up to five media buyers and creative staff, until I moved back to Malaysia in 2024.':
+    'Mengetuai pasukan yang terdiri daripada sehingga lima orang pembeli media dan kakitangan kreatif, sehinggalah saya pulang ke Malaysia pada 2024.',
   'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan.':
     'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Pada tahun yang sama saya juga mula mengendalikan kempen untuk pasaran Malaysia, termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — dan saya masih belajar bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan.',
-  'Since 2021': 'Sejak 2021',
+  '2021 — 2024': '2021 — 2024',
   'Diploma, IT System Support': 'Diploma, Sokongan Sistem IT',
   'Graduated March 2014': 'Tamat pengajian Mac 2014',
   'A hands-on programme, about 70% practical: network installation, email server and VPN setup, IP addressing and subnetting, and remote support for everyday IT problems. More than anything it taught me to work a problem through myself first, then with the people around me.':
@@ -260,4 +260,8 @@ window.LANG_MS = {
   'On-page optimisation': 'Pengoptimuman on-page',
   'Technical SEO': 'SEO teknikal',
   'SEO site builds & monitoring': 'Pembinaan laman SEO & pemantauan',
+  'SEO alongside paid media: keyword research and mapping, on-page and technical optimisation, and building and monitoring SEO sites.':
+    'SEO seiring dengan iklan berbayar: penyelidikan dan pemetaan kata kunci, pengoptimuman on-page dan teknikal, serta pembinaan dan pemantauan laman SEO.',
+  'Google Ads · 2022 · personal best': 'Google Ads · 2022 · rekod peribadi',
+  'Meta Ads · 2022 · personal best': 'Meta Ads · 2022 · rekod peribadi',
 };
