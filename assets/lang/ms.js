@@ -41,8 +41,8 @@ window.LANG_MS = {
   'Account recovery': 'Pemulihan akaun',
 
   'Automation & data infrastructure': 'Automasi & infrastruktur data',
-  'Custom Python and JavaScript tooling for cross-platform scraping, API integration and automated reporting — cutting manual operational time by 45% and turning end-of-month spreadsheets into decisions the team can make the same day.':
-    'Perkakas Python dan JavaScript tersuai untuk pengumpulan data merentas platform, integrasi API dan pelaporan automatik — mengurangkan masa operasi manual sebanyak 45% dan menukar hamparan hujung bulan kepada keputusan yang boleh dibuat pada hari yang sama.',
+  'Custom Python and JavaScript tooling for cross-platform scraping, API integration and automated reporting — cutting manual operational time by 30% and turning end-of-month spreadsheets into decisions the team can make the same day.':
+    'Perkakas Python dan JavaScript tersuai untuk pengumpulan data merentas platform, integrasi API dan pelaporan automatik — mengurangkan masa operasi manual sebanyak 30% dan menukar hamparan hujung bulan kepada keputusan yang boleh dibuat pada hari yang sama.',
   'API integration': 'Integrasi API',
   'Automated reporting': 'Pelaporan automatik',
 
@@ -130,8 +130,8 @@ window.LANG_MS = {
   'AI-assisted development (Python / JavaScript)': 'Pembangunan berbantukan AI (Python / JavaScript)',
   'Cross-platform data scraping': 'Pengumpulan data merentas platform',
   'Debugging & iteration': 'Penyahpepijatan & lelaran',
-  'I build my own reporting tools — cross-platform scraping, API integration and automated reports — using AI to write the Python and JavaScript, then testing and maintaining them myself. That cut manual reporting time by 45%.':
-    'Saya membina alat pelaporan saya sendiri — pengumpulan data merentas platform, integrasi API dan laporan automatik — menggunakan AI untuk menulis kod Python dan JavaScript, kemudian saya sendiri yang menguji dan menyelenggaranya. Ini mengurangkan masa pelaporan manual sebanyak 45%.',
+  'I build my own reporting tools — cross-platform scraping, API integration and automated reports — using AI to write the Python and JavaScript, then testing and maintaining them myself. That cut manual reporting time by 30%.':
+    'Saya membina alat pelaporan saya sendiri — pengumpulan data merentas platform, integrasi API dan laporan automatik — menggunakan AI untuk menulis kod Python dan JavaScript, kemudian saya sendiri yang menguji dan menyelenggaranya. Ini mengurangkan masa pelaporan manual sebanyak 30%.',
   'Ad spend managed in a single year': 'Perbelanjaan iklan dikendalikan dalam satu tahun',
   'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I started automating the reporting, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
     'Selama lapan tahun saya berkecimpung dalam pemasaran prestasi di Taiwan, mengendalikan iklan berbayar di Google, Meta, TikTok dan LINE dengan bajet yang mencecah NT$100 juta dalam setahun. Sepanjang itu saya mula mengautomasikan pelaporan kerana cara manual tidak dapat mengejarnya. Kini saya kembali ke Malaysia dan berharap dapat membawa pengalaman ini kepada pasukan di sini.',
@@ -236,8 +236,8 @@ window.LANG_MS = {
     'Kempen dalam 19 industri, kebanyakannya dikawal dasar: suplemen, penjagaan kulit, hartanah dan pendidikan pelaburan.',
   'Account structures split by product line, so a policy strike on one account didn\'t stop the others.':
     'Struktur akaun dipecahkan mengikut barisan produk, supaya sekatan dasar pada satu akaun tidak menghentikan yang lain.',
-  'Started automating cross-platform reporting — the tooling behind the 45% cut in manual reporting time.':
-    'Mula mengautomasikan pelaporan merentas platform — alat inilah di sebalik pengurangan 45% masa pelaporan manual.',
+  'Started automating cross-platform reporting — the tooling behind the 30% cut in manual reporting time.':
+    'Mula mengautomasikan pelaporan merentas platform — alat inilah di sebalik pengurangan 30% masa pelaporan manual.',
   'Media spend reached NT$100M (about US$3M / RM13M) for the year, across Taiwanese health, wellness and beauty accounts.':
     'Perbelanjaan media mencecah NT$100 juta (kira-kira US$3 juta / RM13 juta) untuk tahun itu, merentas akaun kesihatan, kesejahteraan dan kecantikan Taiwan.',
   'Led a team of up to five media buyers and creative staff, until I moved back to Malaysia in 2024.':

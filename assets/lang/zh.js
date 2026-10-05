@@ -41,8 +41,8 @@ window.LANG_ZH = {
   'Account recovery': '帳戶救援',
 
   'Automation & data infrastructure': '自動化與數據基礎建設',
-  'Custom Python and JavaScript tooling for cross-platform scraping, API integration and automated reporting — cutting manual operational time by 45% and turning end-of-month spreadsheets into decisions the team can make the same day.':
-    '用 Python 與 JavaScript 自建工具，處理跨平台資料抓取、API 串接與自動化報表 —— 人工工時減少 45%，把月底才看得到的試算表，變成當天就能下判斷的數據。',
+  'Custom Python and JavaScript tooling for cross-platform scraping, API integration and automated reporting — cutting manual operational time by 30% and turning end-of-month spreadsheets into decisions the team can make the same day.':
+    '用 Python 與 JavaScript 自建工具，處理跨平台資料抓取、API 串接與自動化報表 —— 人工工時減少 30%，把月底才看得到的試算表，變成當天就能下判斷的數據。',
   'API integration': 'API 串接',
   'Automated reporting': '自動化報表',
 
@@ -130,8 +130,8 @@ window.LANG_ZH = {
   'AI-assisted development (Python / JavaScript)': 'AI 輔助開發（Python / JavaScript）',
   'Cross-platform data scraping': '跨平台資料抓取',
   'Debugging & iteration': '除錯與迭代',
-  'I build my own reporting tools — cross-platform scraping, API integration and automated reports — using AI to write the Python and JavaScript, then testing and maintaining them myself. That cut manual reporting time by 45%.':
-    '我自己做報表工具 —— 跨平台資料抓取、API 串接與自動化報表。Python 與 JavaScript 程式碼用 AI 協助撰寫，之後的測試與維護由我自己負責。人工報表時間因此減少 45%。',
+  'I build my own reporting tools — cross-platform scraping, API integration and automated reports — using AI to write the Python and JavaScript, then testing and maintaining them myself. That cut manual reporting time by 30%.':
+    '我自己做報表工具 —— 跨平台資料抓取、API 串接與自動化報表。Python 與 JavaScript 程式碼用 AI 協助撰寫，之後的測試與維護由我自己負責。人工報表時間因此減少 30%。',
   'Ad spend managed in a single year': '一年操作的廣告投放金額（約新台幣 1 億）',
   'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I started automating the reporting, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
     '過去八年我在台灣做成效行銷，操作 Google、Meta、TikTok 與 LINE 的廣告投放，單年預算最高到新台幣 1 億。過程中因為人工報表跟不上，開始自己把報表自動化。現在回到馬來西亞，希望把這些經驗帶進這裡的團隊。',
@@ -237,8 +237,8 @@ window.LANG_ZH = {
     '操作過 19 個產業，其中不少是受政策限制的類別：保健食品、保養品、房地產與投顧教學。',
   'Account structures split by product line, so a policy strike on one account didn\'t stop the others.':
     '依產品線拆分廣告帳戶，一個帳戶被政策限制時，其他帳戶照常運作。',
-  'Started automating cross-platform reporting — the tooling behind the 45% cut in manual reporting time.':
-    '開始把跨平台報表自動化 —— 後來讓人工報表時間減少 45% 的，就是這套工具。',
+  'Started automating cross-platform reporting — the tooling behind the 30% cut in manual reporting time.':
+    '開始把跨平台報表自動化 —— 後來讓人工報表時間減少 30% 的，就是這套工具。',
   'Media spend reached NT$100M (about US$3M / RM13M) for the year, across Taiwanese health, wellness and beauty accounts.':
     '全年媒體投放金額達新台幣 1 億（約 US$3M／RM 1,300 萬），客戶以台灣保健、健康生活與美妝品牌為主。',
   'Led a team of up to five media buyers and creative staff, until I moved back to Malaysia in 2024.':
