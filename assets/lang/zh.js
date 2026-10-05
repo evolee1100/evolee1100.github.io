@@ -257,4 +257,8 @@ window.LANG_ZH = {
     '我在 2024 年回到馬來西亞，打算在這裡長期發展。希望找到一個能一起走得長遠的代理商團隊 —— 帶進我在高風險類別、多平台投放與報表自動化的經驗，也在過程中把馬來西亞市場真正學透。如果剛好符合您團隊的需要，很歡迎聊聊，上面任何一個數字我都可以詳細說明。',
   'Long-term agency roles in Malaysia': '馬來西亞的長期代理商職位',
   'Chee Hou (Evo) Lee · Performance Marketing Specialist': 'Chee Hou (Evo) Lee · 成效行銷專員',
+  'Keyword research & mapping': '關鍵字研究與佈局',
+  'On-page optimisation': '頁面優化（On-page）',
+  'Technical SEO': '技術 SEO',
+  'SEO site builds & monitoring': 'SEO 站架設與監控',
 };

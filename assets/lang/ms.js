@@ -256,4 +256,8 @@ window.LANG_MS = {
     'Saya pulang ke Malaysia pada 2024 dan bercadang untuk kekal di sini. Saya mencari agensi yang boleh saya bina kerjaya bersama untuk jangka panjang — membawa pengalaman dalam kategori berisiko tinggi, pembelian merentas platform dan automasi pelaporan, sambil mempelajari pasaran Malaysia dengan sebaiknya. Jika itu sesuai dengan pasukan anda, saya berbesar hati untuk berbual, dan boleh menerangkan mana-mana angka di atas dengan terperinci.',
   'Long-term agency roles in Malaysia': 'Jawatan agensi jangka panjang di Malaysia',
   'Chee Hou (Evo) Lee · Performance Marketing Specialist': 'Chee Hou (Evo) Lee · Pakar Pemasaran Prestasi',
+  'Keyword research & mapping': 'Penyelidikan & pemetaan kata kunci',
+  'On-page optimisation': 'Pengoptimuman on-page',
+  'Technical SEO': 'SEO teknikal',
+  'SEO site builds & monitoring': 'Pembinaan laman SEO & pemantauan',
 };
