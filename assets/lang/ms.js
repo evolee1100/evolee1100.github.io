@@ -243,8 +243,8 @@ window.LANG_MS = {
     'Perbelanjaan media mencecah NT$100 juta (kira-kira US$3 juta / RM13 juta) untuk tahun itu, merentas akaun kesihatan, kesejahteraan dan kecantikan Taiwan.',
   'Led a team of up to five media buyers and creative staff, until I moved back to Malaysia in 2024.':
     'Mengetuai pasukan yang terdiri daripada sehingga lima orang pembeli media dan kakitangan kreatif, sehinggalah saya pulang ke Malaysia pada 2024.',
-  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan. With no team here, I\'ve also made my own ad creative since 2024 — the concepts and the short videos, built to hook viewers in the first three seconds.':
-    'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Pada tahun yang sama saya juga mula mengendalikan kempen untuk pasaran Malaysia, termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — dan saya masih belajar bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan. Tanpa pasukan di sini, sejak 2024 saya juga menghasilkan bahan kreatif iklan saya sendiri — konsep dan video pendeknya, dibina untuk menarik perhatian penonton dalam tiga saat pertama.',
+  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan. With no team here, I\'ve also produced my own ad creative with AI since 2024 — images and short videos, as a one-person team — and eight years of buying tell me what a video\'s first three seconds need to get noticed.':
+    'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Pada tahun yang sama saya juga mula mengendalikan kempen untuk pasaran Malaysia, termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — dan saya masih belajar bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan. Tanpa pasukan di sini, sejak 2024 saya juga menghasilkan bahan kreatif iklan saya sendiri dengan AI — imej dan video pendek, semuanya seorang diri — dan lapan tahun pembelian media mengajar saya apa yang perlu ada dalam tiga saat pertama sesebuah video untuk menarik perhatian.',
   '2021 — 2024': '2021 — 2024',
   'Diploma, IT System Support': 'Diploma, Sokongan Sistem IT',
   'Graduated March 2014': 'Tamat pengajian Mac 2014',
@@ -253,8 +253,8 @@ window.LANG_MS = {
   'The next chapter': 'Perjalanan seterusnya',
   'Settling in Malaysia, and looking for an agency team to grow with.':
     'Menetap di Malaysia, dan mencari pasukan agensi untuk berkembang bersama',
-  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying, a media-buying system I built with AI and self-made ad creative, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
-    'Saya pulang ke Malaysia pada 2024 dan bercadang untuk kekal di sini. Saya mencari agensi yang boleh saya bina kerjaya bersama untuk jangka panjang — membawa pengalaman dalam kategori berisiko tinggi, pembelian merentas platform, sistem pembelian media yang saya bina dengan AI dan bahan kreatif iklan buatan sendiri, sambil mempelajari pasaran Malaysia dengan sebaiknya. Jika itu sesuai dengan pasukan anda, saya berbesar hati untuk berbual, dan boleh menerangkan mana-mana angka di atas dengan terperinci.',
+  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying, a media-buying system I built with AI and AI-made ad creative, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
+    'Saya pulang ke Malaysia pada 2024 dan bercadang untuk kekal di sini. Saya mencari agensi yang boleh saya bina kerjaya bersama untuk jangka panjang — membawa pengalaman dalam kategori berisiko tinggi, pembelian merentas platform, sistem pembelian media yang saya bina dengan AI dan bahan kreatif iklan buatan AI, sambil mempelajari pasaran Malaysia dengan sebaiknya. Jika itu sesuai dengan pasukan anda, saya berbesar hati untuk berbual, dan boleh menerangkan mana-mana angka di atas dengan terperinci.',
   'Long-term agency roles in Malaysia': 'Jawatan agensi jangka panjang di Malaysia',
   'Chee Hou (Evo) Lee · Performance Marketing Specialist': 'Chee Hou (Evo) Lee · Pakar Pemasaran Prestasi',
   'Keyword research & mapping': 'Penyelidikan & pemetaan kata kunci',
@@ -266,13 +266,14 @@ window.LANG_MS = {
   'Google Ads · 2022 · personal best': 'Google Ads · 2022 · rekod peribadi',
   'Meta Ads · 2022 · personal best': 'Meta Ads · 2022 · rekod peribadi',
   'Traffic monitoring': 'Pemantauan trafik',
-  'Ad creative & short-form video': 'Bahan kreatif iklan & video pendek',
-  'Since 2024 I\'ve made my own ad creative: coming up with new concepts and cutting the short videos. In feed, a video has about three seconds to earn attention, so that\'s what each one is built around.':
-    'Sejak 2024 saya menghasilkan bahan kreatif iklan saya sendiri: mencipta konsep baharu dan menyunting video pendeknya. Dalam suapan berita, sesebuah video hanya ada kira-kira tiga saat untuk menarik perhatian, jadi setiap satu dibina berpaksikan tiga saat itu.',
-  'New concepts': 'Konsep baharu',
-  'Short-form video': 'Video pendek',
+  'AI-made ad creative: images and video': 'Bahan kreatif iklan buatan AI: imej dan video',
+  'Since 2024 I\'ve produced my own ad creative with AI — images and short videos, as a one-person team. Eight years of media buying tell me what a video needs in its first three seconds to get noticed.':
+    'Sejak 2024 saya menghasilkan bahan kreatif iklan saya sendiri dengan AI — imej dan video pendek, semuanya seorang diri. Lapan tahun pembelian media mengajar saya apa yang perlu ada dalam tiga saat pertama sesebuah video untuk menarik perhatian.',
+  'AI image & video': 'Imej & video AI',
+  'One-person production': 'Penghasilan seorang diri',
   '3-second hooks': 'Tarikan 3 saat pertama',
   'Creative': 'Kreatif',
-  'New concepts & ideas': 'Konsep & idea baharu',
-  'Self-made ad creative (since 2024)': 'Bahan kreatif iklan buatan sendiri (sejak 2024)',
+  'AI-made image creative': 'Bahan kreatif imej buatan AI',
+  'AI-made video creative': 'Bahan kreatif video buatan AI',
+  'One-person production (since 2024)': 'Penghasilan seorang diri (sejak 2024)',
 };

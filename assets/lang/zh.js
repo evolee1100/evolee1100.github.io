@@ -243,8 +243,8 @@ window.LANG_ZH = {
     '全年媒體投放金額達新台幣 1 億（約 US$3M／RM 1,300 萬），客戶以台灣保健、健康生活與美妝品牌為主。',
   'Led a team of up to five media buyers and creative staff, until I moved back to Malaysia in 2024.':
     '帶領最多 5 人的團隊，包含投手與素材端，直到 2024 年搬回馬來西亞為止。',
-  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan. With no team here, I\'ve also made my own ad creative since 2024 — the concepts and the short videos, built to hook viewers in the first three seconds.':
-    '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。同年也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；本地受眾、預算和平台生態跟台灣有哪些不同，我還在持續摸索。這裡沒有團隊，所以 2024 年起廣告素材也由我自己做 —— 從概念發想到短影音剪輯，每一支都是為了在前三秒勾住觀眾而設計。',
+  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan. With no team here, I\'ve also produced my own ad creative with AI since 2024 — images and short videos, as a one-person team — and eight years of buying tell me what a video\'s first three seconds need to get noticed.':
+    '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。同年也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；本地受眾、預算和平台生態跟台灣有哪些不同，我還在持續摸索。這裡沒有團隊，所以 2024 年起廣告素材也由我用 AI 自己做 —— 圖片和短影音，一個人就能產出；八年的投放經驗讓我知道，一支影片的前三秒要有什麼，才能讓受眾注意到。',
   '2021 — 2024': '2021 年 — 2024 年',
   'Diploma, IT System Support': '資訊系統支援 專業文憑',
   'Graduated March 2014': '2014 年 3 月畢業',
@@ -253,8 +253,8 @@ window.LANG_ZH = {
   'The next chapter': '下一個旅程',
   'Settling in Malaysia, and looking for an agency team to grow with.':
     '在馬來西亞紮根，尋找能一起長期發展的代理商團隊',
-  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying, a media-buying system I built with AI and self-made ad creative, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
-    '我在 2024 年回到馬來西亞，打算在這裡長期發展。希望找到一個能一起走得長遠的代理商團隊 —— 帶進我在高風險類別、多平台投放、用 AI 自建的廣告投放系統與自製廣告素材的經驗，也在過程中把馬來西亞市場真正學透。如果剛好符合您團隊的需要，很歡迎聊聊，上面任何一個數字我都可以詳細說明。',
+  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying, a media-buying system I built with AI and AI-made ad creative, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
+    '我在 2024 年回到馬來西亞，打算在這裡長期發展。希望找到一個能一起走得長遠的代理商團隊 —— 帶進我在高風險類別、多平台投放、用 AI 自建的廣告投放系統與 AI 製作的廣告素材的經驗，也在過程中把馬來西亞市場真正學透。如果剛好符合您團隊的需要，很歡迎聊聊，上面任何一個數字我都可以詳細說明。',
   'Long-term agency roles in Malaysia': '馬來西亞的長期代理商職位',
   'Chee Hou (Evo) Lee · Performance Marketing Specialist': 'Chee Hou (Evo) Lee · 成效行銷專員',
   'Keyword research & mapping': '關鍵字研究與佈局',
@@ -266,13 +266,14 @@ window.LANG_ZH = {
   'Google Ads · 2022 · personal best': 'Google Ads · 2022 · 個人最佳紀錄',
   'Meta Ads · 2022 · personal best': 'Meta Ads · 2022 · 個人最佳紀錄',
   'Traffic monitoring': '流量監控',
-  'Ad creative & short-form video': '廣告素材與短影音',
-  'Since 2024 I\'ve made my own ad creative: coming up with new concepts and cutting the short videos. In feed, a video has about three seconds to earn attention, so that\'s what each one is built around.':
-    '2024 年起，廣告素材由我自己來做：發想新的概念，也自己剪短影音。在動態牆上，一支影片大概只有三秒可以抓住注意力，所以每一支都是圍繞這三秒來設計的。',
-  'New concepts': '新概念發想',
-  'Short-form video': '短影音',
+  'AI-made ad creative: images and video': '用 AI 製作廣告素材：圖片與影片',
+  'Since 2024 I\'ve produced my own ad creative with AI — images and short videos, as a one-person team. Eight years of media buying tell me what a video needs in its first three seconds to get noticed.':
+    '2024 年起，我用 AI 製作自己的廣告素材 —— 圖片和短影音，一個人就能產出。八年的廣告投放經驗讓我知道，一支影片的前三秒要有什麼，才能讓受眾注意到。',
+  'AI image & video': 'AI 圖片與影片',
+  'One-person production': '一人製作',
   '3-second hooks': '前 3 秒勾住觀眾',
   'Creative': '素材製作',
-  'New concepts & ideas': '新概念與點子發想',
-  'Self-made ad creative (since 2024)': '自製廣告素材（2024 年起）',
+  'AI-made image creative': 'AI 製作圖片素材',
+  'AI-made video creative': 'AI 製作影片素材',
+  'One-person production (since 2024)': '一人製作（2024 年起）',
 };
