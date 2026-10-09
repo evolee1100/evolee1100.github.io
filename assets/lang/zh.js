@@ -11,7 +11,7 @@ window.LANG_ZH = {
   /* ---------- Hero ---------- */
   'Performance Marketing · Based in Malaysia': '成效行銷 · 現居馬來西亞',
   'Multi-platform paid media,': '多平台廣告投放，',
-  'and the reporting behind it.': '以及背後的報表與工具。',
+  'and the AI-built system behind it.': '以及背後用 AI 打造的系統。',
   "I run multi-channel ad campaigns across Google, Meta, TikTok and LINE — and when the reporting can't keep pace with the spend, I build the automation myself. Eight years in Taiwan's performance marketing scene, now applying that playbook back home in Malaysia.":
     '我在 Google、Meta、TikTok 與 LINE 上操作多平台廣告投放；當報表的速度跟不上投放的規模，我就自己寫工具把它自動化。八年台灣成效行銷實戰，現在把這套打法帶回馬來西亞。',
   'Work with me': '談談合作',
@@ -40,7 +40,7 @@ window.LANG_ZH = {
   'Funnel restructuring': '漏斗重建',
   'Account recovery': '帳戶救援',
 
-  'Automation & data infrastructure': '自動化與數據基礎建設',
+  'My own media-buying system, built with AI': '用 AI 打造的自建廣告投放系統',
   'Custom Python and JavaScript tooling for cross-platform scraping, API integration and automated reporting — cutting manual operational time by 30% and turning end-of-month spreadsheets into decisions the team can make the same day.':
     '用 Python 與 JavaScript 自建工具，處理跨平台資料抓取、API 串接與自動化報表 —— 人工工時減少 30%，把月底才看得到的試算表，變成當天就能下判斷的數據。',
   'API integration': 'API 串接',
@@ -127,14 +127,14 @@ window.LANG_ZH = {
   'Open menu': '開啟選單',
   'Send me an email': '寄信給我',
   'AI-assisted development': 'AI 輔助開發',
-  'AI-assisted development (Python / JavaScript)': 'AI 輔助開發（Python / JavaScript）',
+  'Own media-buying system, built with AI (Python / JavaScript)': '自建廣告投放系統，用 AI 打造（Python / JavaScript）',
   'Cross-platform data scraping': '跨平台資料抓取',
   'Debugging & iteration': '除錯與迭代',
-  'I build my own reporting tools — cross-platform scraping, API integration and automated reports — using AI to write the Python and JavaScript, then testing and maintaining them myself. That cut manual reporting time by 30%.':
-    '我自己做報表工具 —— 跨平台資料抓取、API 串接與自動化報表。Python 與 JavaScript 程式碼用 AI 協助撰寫，之後的測試與維護由我自己負責。人工報表時間因此減少 30%。',
+  'I use AI to write the Python and JavaScript for a media-buying system of my own — cross-platform scraping, API integration, automated reporting and traffic monitoring — then test and maintain it myself. It has cut manual reporting time by 30%.':
+    '我用 AI 撰寫 Python 與 JavaScript，打造自己的廣告投放系統 —— 跨平台資料抓取、API 串接、自動化報表與流量監控 —— 之後的測試與維護由我自己負責。人工報表時間因此減少 30%。',
   'Ad spend managed in a single year': '一年操作的廣告投放金額（約新台幣 1 億）',
-  'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I started automating the reporting, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
-    '過去八年我在台灣做成效行銷，操作 Google、Meta、TikTok 與 LINE 的廣告投放，單年預算最高到新台幣 1 億。過程中因為人工報表跟不上，開始自己把報表自動化。現在回到馬來西亞，希望把這些經驗帶進這裡的團隊。',
+  'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I built my own media-buying system, using AI to write the code, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
+    '過去八年我在台灣做成效行銷，操作 Google、Meta、TikTok 與 LINE 的廣告投放，單年預算最高到新台幣 1 億。過程中因為人工作業跟不上，我自己建了一套廣告投放系統，程式碼用 AI 來寫。現在回到馬來西亞，希望把這些經驗帶進這裡的團隊。',
   'My three largest accounts': '手頭上最大的三個品牌',
   'All three are Taiwanese health and wellness brands, in one of the most tightly policed ad categories there is — a single policy strike can take the account down mid-campaign.':
     '三個都是台灣的保健與健康生活品牌，屬於廣告政策最嚴格的類別之一 —— 一次違規，整個帳戶就可能在檔期中途被停掉。',
@@ -237,14 +237,14 @@ window.LANG_ZH = {
     '操作過 19 個產業，其中不少是受政策限制的類別：保健食品、保養品、房地產與投顧教學。',
   'Account structures split by product line, so a policy strike on one account didn\'t stop the others.':
     '依產品線拆分廣告帳戶，一個帳戶被政策限制時，其他帳戶照常運作。',
-  'Started automating cross-platform reporting — the tooling behind the 30% cut in manual reporting time.':
-    '開始把跨平台報表自動化 —— 後來讓人工報表時間減少 30% 的，就是這套工具。',
+  'Started building my own media-buying system — reporting first, then scraping, API integration and traffic monitoring, now written with AI. It\'s the tooling behind the 30% cut in manual reporting time.':
+    '開始自建廣告投放系統 —— 先從報表做起，接著是資料抓取、API 串接與流量監控，現在的程式碼改用 AI 來寫。後來讓人工報表時間減少 30% 的，就是這套工具。',
   'Media spend reached NT$100M (about US$3M / RM13M) for the year, across Taiwanese health, wellness and beauty accounts.':
     '全年媒體投放金額達新台幣 1 億（約 US$3M／RM 1,300 萬），客戶以台灣保健、健康生活與美妝品牌為主。',
   'Led a team of up to five media buyers and creative staff, until I moved back to Malaysia in 2024.':
     '帶領最多 5 人的團隊，包含投手與素材端，直到 2024 年搬回馬來西亞為止。',
-  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan.':
-    '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。同年也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；本地受眾、預算和平台生態跟台灣有哪些不同，我還在持續摸索。',
+  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan. With no team here, I\'ve also made my own ad creative since 2024 — the concepts and the short videos, built to hook viewers in the first three seconds.':
+    '2024 年 8 月搬回馬來西亞，之後在這裡持續和台北團隊一起工作。同年也開始接觸馬來西亞本地市場的投放，包括幫本地技職學院跑 Meta 潛在客戶廣告，名單成本約 RM12；本地受眾、預算和平台生態跟台灣有哪些不同，我還在持續摸索。這裡沒有團隊，所以 2024 年起廣告素材也由我自己做 —— 從概念發想到短影音剪輯，每一支都是為了在前三秒勾住觀眾而設計。',
   '2021 — 2024': '2021 年 — 2024 年',
   'Diploma, IT System Support': '資訊系統支援 專業文憑',
   'Graduated March 2014': '2014 年 3 月畢業',
@@ -253,8 +253,8 @@ window.LANG_ZH = {
   'The next chapter': '下一個旅程',
   'Settling in Malaysia, and looking for an agency team to grow with.':
     '在馬來西亞紮根，尋找能一起長期發展的代理商團隊',
-  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying and reporting automation, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
-    '我在 2024 年回到馬來西亞，打算在這裡長期發展。希望找到一個能一起走得長遠的代理商團隊 —— 帶進我在高風險類別、多平台投放與報表自動化的經驗，也在過程中把馬來西亞市場真正學透。如果剛好符合您團隊的需要，很歡迎聊聊，上面任何一個數字我都可以詳細說明。',
+  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying, a media-buying system I built with AI and self-made ad creative, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
+    '我在 2024 年回到馬來西亞，打算在這裡長期發展。希望找到一個能一起走得長遠的代理商團隊 —— 帶進我在高風險類別、多平台投放、用 AI 自建的廣告投放系統與自製廣告素材的經驗，也在過程中把馬來西亞市場真正學透。如果剛好符合您團隊的需要，很歡迎聊聊，上面任何一個數字我都可以詳細說明。',
   'Long-term agency roles in Malaysia': '馬來西亞的長期代理商職位',
   'Chee Hou (Evo) Lee · Performance Marketing Specialist': 'Chee Hou (Evo) Lee · 成效行銷專員',
   'Keyword research & mapping': '關鍵字研究與佈局',
@@ -265,4 +265,14 @@ window.LANG_ZH = {
     '廣告投放之外也做 SEO：關鍵字研究與佈局、頁面（On-page）與技術優化，以及 SEO 站的架設與監控。',
   'Google Ads · 2022 · personal best': 'Google Ads · 2022 · 個人最佳紀錄',
   'Meta Ads · 2022 · personal best': 'Meta Ads · 2022 · 個人最佳紀錄',
+  'Traffic monitoring': '流量監控',
+  'Ad creative & short-form video': '廣告素材與短影音',
+  'Since 2024 I\'ve made my own ad creative: coming up with new concepts and cutting the short videos. In feed, a video has about three seconds to earn attention, so that\'s what each one is built around.':
+    '2024 年起，廣告素材由我自己來做：發想新的概念，也自己剪短影音。在動態牆上，一支影片大概只有三秒可以抓住注意力，所以每一支都是圍繞這三秒來設計的。',
+  'New concepts': '新概念發想',
+  'Short-form video': '短影音',
+  '3-second hooks': '前 3 秒勾住觀眾',
+  'Creative': '素材製作',
+  'New concepts & ideas': '新概念與點子發想',
+  'Self-made ad creative (since 2024)': '自製廣告素材（2024 年起）',
 };

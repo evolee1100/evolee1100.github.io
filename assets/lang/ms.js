@@ -11,7 +11,7 @@ window.LANG_MS = {
   /* ---------- Hero ---------- */
   'Performance Marketing · Based in Malaysia': 'Pemasaran Prestasi · Berpangkalan di Malaysia',
   'Multi-platform paid media,': 'Iklan berbayar pelbagai platform,',
-  'and the reporting behind it.': 'dan pelaporan di sebaliknya.',
+  'and the AI-built system behind it.': 'dan sistem binaan AI di sebaliknya.',
   "I run multi-channel ad campaigns across Google, Meta, TikTok and LINE — and when the reporting can't keep pace with the spend, I build the automation myself. Eight years in Taiwan's performance marketing scene, now applying that playbook back home in Malaysia.":
     'Saya mengendalikan kempen iklan pelbagai saluran di Google, Meta, TikTok dan LINE — dan apabila pelaporan tidak mampu mengejar perbelanjaan iklan, saya membina automasinya sendiri. Lapan tahun dalam industri pemasaran prestasi di Taiwan, kini membawa pendekatan itu pulang ke Malaysia.',
   'Work with me': 'Mari bekerjasama',
@@ -40,7 +40,7 @@ window.LANG_MS = {
   'Funnel restructuring': 'Penstrukturan semula corong',
   'Account recovery': 'Pemulihan akaun',
 
-  'Automation & data infrastructure': 'Automasi & infrastruktur data',
+  'My own media-buying system, built with AI': 'Sistem pembelian media saya sendiri, dibina dengan AI',
   'Custom Python and JavaScript tooling for cross-platform scraping, API integration and automated reporting — cutting manual operational time by 30% and turning end-of-month spreadsheets into decisions the team can make the same day.':
     'Perkakas Python dan JavaScript tersuai untuk pengumpulan data merentas platform, integrasi API dan pelaporan automatik — mengurangkan masa operasi manual sebanyak 30% dan menukar hamparan hujung bulan kepada keputusan yang boleh dibuat pada hari yang sama.',
   'API integration': 'Integrasi API',
@@ -127,14 +127,15 @@ window.LANG_MS = {
   'Open menu': 'Buka menu',
   'Send me an email': 'Hantar e-mel kepada saya',
   'AI-assisted development': 'Pembangunan berbantukan AI',
-  'AI-assisted development (Python / JavaScript)': 'Pembangunan berbantukan AI (Python / JavaScript)',
+  'Own media-buying system, built with AI (Python / JavaScript)':
+    'Sistem pembelian media sendiri, dibina dengan AI (Python / JavaScript)',
   'Cross-platform data scraping': 'Pengumpulan data merentas platform',
   'Debugging & iteration': 'Penyahpepijatan & lelaran',
-  'I build my own reporting tools — cross-platform scraping, API integration and automated reports — using AI to write the Python and JavaScript, then testing and maintaining them myself. That cut manual reporting time by 30%.':
-    'Saya membina alat pelaporan saya sendiri — pengumpulan data merentas platform, integrasi API dan laporan automatik — menggunakan AI untuk menulis kod Python dan JavaScript, kemudian saya sendiri yang menguji dan menyelenggaranya. Ini mengurangkan masa pelaporan manual sebanyak 30%.',
+  'I use AI to write the Python and JavaScript for a media-buying system of my own — cross-platform scraping, API integration, automated reporting and traffic monitoring — then test and maintain it myself. It has cut manual reporting time by 30%.':
+    'Saya menggunakan AI untuk menulis kod Python dan JavaScript bagi sistem pembelian media saya sendiri — pengumpulan data merentas platform, integrasi API, pelaporan automatik dan pemantauan trafik — kemudian saya sendiri yang menguji dan menyelenggaranya. Ia telah mengurangkan masa pelaporan manual sebanyak 30%.',
   'Ad spend managed in a single year': 'Perbelanjaan iklan dikendalikan dalam satu tahun',
-  'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I started automating the reporting, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
-    'Selama lapan tahun saya berkecimpung dalam pemasaran prestasi di Taiwan, mengendalikan iklan berbayar di Google, Meta, TikTok dan LINE dengan bajet yang mencecah NT$100 juta dalam setahun. Sepanjang itu saya mula mengautomasikan pelaporan kerana cara manual tidak dapat mengejarnya. Kini saya kembali ke Malaysia dan berharap dapat membawa pengalaman ini kepada pasukan di sini.',
+  'I\'ve spent eight years in Taiwan\'s performance marketing, running paid media on Google, Meta, TikTok and LINE with budgets that reached NT$100M in a single year. Along the way I built my own media-buying system, using AI to write the code, because doing it by hand couldn\'t keep up. I\'m now back home in Malaysia and hoping to bring that experience to a team here.':
+    'Selama lapan tahun saya berkecimpung dalam pemasaran prestasi di Taiwan, mengendalikan iklan berbayar di Google, Meta, TikTok dan LINE dengan bajet yang mencecah NT$100 juta dalam setahun. Sepanjang itu saya membina sistem pembelian media saya sendiri, menggunakan AI untuk menulis kodnya, kerana cara manual tidak dapat mengejarnya. Kini saya kembali ke Malaysia dan berharap dapat membawa pengalaman ini kepada pasukan di sini.',
   'My three largest accounts': 'Tiga akaun terbesar saya',
   'All three are Taiwanese health and wellness brands, in one of the most tightly policed ad categories there is — a single policy strike can take the account down mid-campaign.':
     'Ketiga-tiganya jenama kesihatan dan kesejahteraan dari Taiwan, dalam salah satu kategori iklan yang paling ketat dikawal — satu pelanggaran dasar boleh mematikan akaun di tengah-tengah kempen.',
@@ -236,14 +237,14 @@ window.LANG_MS = {
     'Kempen dalam 19 industri, kebanyakannya dikawal dasar: suplemen, penjagaan kulit, hartanah dan pendidikan pelaburan.',
   'Account structures split by product line, so a policy strike on one account didn\'t stop the others.':
     'Struktur akaun dipecahkan mengikut barisan produk, supaya sekatan dasar pada satu akaun tidak menghentikan yang lain.',
-  'Started automating cross-platform reporting — the tooling behind the 30% cut in manual reporting time.':
-    'Mula mengautomasikan pelaporan merentas platform — alat inilah di sebalik pengurangan 30% masa pelaporan manual.',
+  'Started building my own media-buying system — reporting first, then scraping, API integration and traffic monitoring, now written with AI. It\'s the tooling behind the 30% cut in manual reporting time.':
+    'Mula membina sistem pembelian media saya sendiri — pelaporan dahulu, kemudian pengumpulan data, integrasi API dan pemantauan trafik, kini ditulis dengan AI. Alat inilah di sebalik pengurangan 30% masa pelaporan manual.',
   'Media spend reached NT$100M (about US$3M / RM13M) for the year, across Taiwanese health, wellness and beauty accounts.':
     'Perbelanjaan media mencecah NT$100 juta (kira-kira US$3 juta / RM13 juta) untuk tahun itu, merentas akaun kesihatan, kesejahteraan dan kecantikan Taiwan.',
   'Led a team of up to five media buyers and creative staff, until I moved back to Malaysia in 2024.':
     'Mengetuai pasukan yang terdiri daripada sehingga lima orang pembeli media dan kakitangan kreatif, sehinggalah saya pulang ke Malaysia pada 2024.',
-  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan.':
-    'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Pada tahun yang sama saya juga mula mengendalikan kempen untuk pasaran Malaysia, termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — dan saya masih belajar bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan.',
+  'Moved home to Malaysia in August 2024 and kept working with the Taipei team from here. That same year I also started running campaigns for the Malaysian market, including Meta lead generation for a local vocational college at around RM12 per lead — and I\'m still learning how local audiences, budgets and platforms differ from Taiwan. With no team here, I\'ve also made my own ad creative since 2024 — the concepts and the short videos, built to hook viewers in the first three seconds.':
+    'Pulang ke Malaysia pada Ogos 2024 dan terus bekerja dengan pasukan Taipei dari sini. Pada tahun yang sama saya juga mula mengendalikan kempen untuk pasaran Malaysia, termasuk penjanaan prospek Meta untuk sebuah kolej vokasional tempatan pada kira-kira RM12 setiap prospek — dan saya masih belajar bagaimana audiens, bajet dan platform tempatan berbeza daripada Taiwan. Tanpa pasukan di sini, sejak 2024 saya juga menghasilkan bahan kreatif iklan saya sendiri — konsep dan video pendeknya, dibina untuk menarik perhatian penonton dalam tiga saat pertama.',
   '2021 — 2024': '2021 — 2024',
   'Diploma, IT System Support': 'Diploma, Sokongan Sistem IT',
   'Graduated March 2014': 'Tamat pengajian Mac 2014',
@@ -252,8 +253,8 @@ window.LANG_MS = {
   'The next chapter': 'Perjalanan seterusnya',
   'Settling in Malaysia, and looking for an agency team to grow with.':
     'Menetap di Malaysia, dan mencari pasukan agensi untuk berkembang bersama',
-  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying and reporting automation, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
-    'Saya pulang ke Malaysia pada 2024 dan bercadang untuk kekal di sini. Saya mencari agensi yang boleh saya bina kerjaya bersama untuk jangka panjang — membawa pengalaman dalam kategori berisiko tinggi, pembelian merentas platform dan automasi pelaporan, sambil mempelajari pasaran Malaysia dengan sebaiknya. Jika itu sesuai dengan pasukan anda, saya berbesar hati untuk berbual, dan boleh menerangkan mana-mana angka di atas dengan terperinci.',
+  'I moved home in 2024 and I\'m here to stay. I\'m looking for an agency where I can build something over the long term — bringing experience in high-risk categories, multi-platform buying, a media-buying system I built with AI and self-made ad creative, and learning the Malaysian market properly along the way. If that fits your team, I\'d be glad to talk, and happy to walk through any of the numbers above.':
+    'Saya pulang ke Malaysia pada 2024 dan bercadang untuk kekal di sini. Saya mencari agensi yang boleh saya bina kerjaya bersama untuk jangka panjang — membawa pengalaman dalam kategori berisiko tinggi, pembelian merentas platform, sistem pembelian media yang saya bina dengan AI dan bahan kreatif iklan buatan sendiri, sambil mempelajari pasaran Malaysia dengan sebaiknya. Jika itu sesuai dengan pasukan anda, saya berbesar hati untuk berbual, dan boleh menerangkan mana-mana angka di atas dengan terperinci.',
   'Long-term agency roles in Malaysia': 'Jawatan agensi jangka panjang di Malaysia',
   'Chee Hou (Evo) Lee · Performance Marketing Specialist': 'Chee Hou (Evo) Lee · Pakar Pemasaran Prestasi',
   'Keyword research & mapping': 'Penyelidikan & pemetaan kata kunci',
@@ -264,4 +265,14 @@ window.LANG_MS = {
     'SEO seiring dengan iklan berbayar: penyelidikan dan pemetaan kata kunci, pengoptimuman on-page dan teknikal, serta pembinaan dan pemantauan laman SEO.',
   'Google Ads · 2022 · personal best': 'Google Ads · 2022 · rekod peribadi',
   'Meta Ads · 2022 · personal best': 'Meta Ads · 2022 · rekod peribadi',
+  'Traffic monitoring': 'Pemantauan trafik',
+  'Ad creative & short-form video': 'Bahan kreatif iklan & video pendek',
+  'Since 2024 I\'ve made my own ad creative: coming up with new concepts and cutting the short videos. In feed, a video has about three seconds to earn attention, so that\'s what each one is built around.':
+    'Sejak 2024 saya menghasilkan bahan kreatif iklan saya sendiri: mencipta konsep baharu dan menyunting video pendeknya. Dalam suapan berita, sesebuah video hanya ada kira-kira tiga saat untuk menarik perhatian, jadi setiap satu dibina berpaksikan tiga saat itu.',
+  'New concepts': 'Konsep baharu',
+  'Short-form video': 'Video pendek',
+  '3-second hooks': 'Tarikan 3 saat pertama',
+  'Creative': 'Kreatif',
+  'New concepts & ideas': 'Konsep & idea baharu',
+  'Self-made ad creative (since 2024)': 'Bahan kreatif iklan buatan sendiri (sejak 2024)',
 };
